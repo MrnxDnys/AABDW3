@@ -1,0 +1,7 @@
+# ignore folders
+jdk-11.0.14.1+1-jre_mac/
+spark-3.2.1-bin-hadoop2.7/
+winutils/
+
+# ignore data
+notebooks/data/
